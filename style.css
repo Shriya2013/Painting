@@ -1,0 +1,39 @@
+.body_background
+{
+    background-image:url("img.jpg");
+    background-position: center;
+    background-size: cover;
+}
+
+body
+{
+    cursor: pointer;
+}
+
+h1
+{
+color: black;
+font-size: 40px;
+font-family:'Times New Roman';
+}
+
+#myCanvas
+{
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+button
+{
+background-color: #18993b;
+border: none;
+color: whitesmoke;
+padding: 10px 42px;
+font-size: 16px;
+font-family: 'Courier New';
+}
+
+input
+{
+    margin-right: 20px;
+}
